@@ -38,10 +38,10 @@ $IRONPAY_OFFER_ID = null;
 
 
 // NOVAS CONSTANTES PARA A PIXUP (Permanece inalterado)
-$VT_ID = 'Luciano4162_2806995125600330';
-$VT_SECRET = '43a7a3a0a95de2360778459bc6cb6891d2c4c3d538828d2fd32ac9c8969c4dd2';
-$VT_ENDPOINT = 'https://api.pixupbr.com/v2';
-$VT_TOKEN = null;
+$PIXUP_CLIENT_ID = ''Luciano4162_2806995125600330';
+$PIXUP_CLIENT_SECRET = '43a7a3a0a95de2360778459bc6cb6891d2c4c3d538828d2fd32ac9c8969c4dd2';
+$PIXUP_ENDPOINT = 'https://api.pixupbr.com/v2';
+$PIXUP_AUTH_TOKEN = null;
 
 /**
  * Função para obter ou renovar o token da PixUp. (Permanece inalterada)
