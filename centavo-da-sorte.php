@@ -2,7 +2,7 @@
 // centavo-da-sorte.php
 
 session_start();
-$pageTitle = 'Centavo da Sorte - Raspa Green';
+$pageTitle = 'Centavo da Sorte - Mega Raspadinha';
 
 if (isset($_SESSION['user_id'])) {
     require __DIR__ . '/headerlogado.php';

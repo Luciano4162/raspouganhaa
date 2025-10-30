@@ -23,7 +23,7 @@ $is_logged_in = isset($_SESSION['user_id']);
  .winner-name { color: rgba(251,191,36,.75); font-weight: 500; }
  .prize-name { color: #8E8E93; }
  .prize-value { font-weight: 600; font-size: 0.8rem; }
- .prize-value-currency { color: #00E880; }
+ .prize-value-currency { color: #077bff; }
  /* --- GRID PARA O CONTEÚDO --- */
  .game-grid { display: grid; grid-template-columns: 0.9fr 1.52fr; gap: 2rem; align-items: start; }
  /* Coluna da Esquerda (Jogo) */

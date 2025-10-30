@@ -3,7 +3,10 @@
         <ul>
             <li class="sidebar-logo">
                 <a href="?view=inicio">
-                    <img src="https://ik.imagekit.io/3kbnnws8u/raspa-green-logo.png?updatedAt=1757348357863" alt="Raspa Green Logo">
+                    <img src=<img src="https://ik.imagekit.io/tob6osenev/1761831068635~2.jpg?updatedAt=..." 
+     class="logo-img"
+     width="150"
+     height="auto"> alt="Mega Raspadinha Logo">
                 </a>
             </li>
 

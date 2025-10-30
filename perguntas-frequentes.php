@@ -94,7 +94,7 @@ if ($isAuth) {
 <main class="main-container">
     <div class="content-wrapper">
         <div class="mx-auto max-w-3xl px-4 sm:px-6 md:px-8 py-6 sm:py-8 md:py-10">
-            <h2 class="text-center text-lg sm:text-xl md:text-2xl font-extrabold tracking-tight uppercase"> PERGUNTAS FREQUENTES – Raspa Green</h2>
+            <h2 class="text-center text-lg sm:text-xl md:text-2xl font-extrabold tracking-tight uppercase"> PERGUNTAS FREQUENTES – Mega Raspadinha</h2>
             <div class="mt-6 sm:mt-8 space-y-6 leading-relaxed text-sm sm:text-base">
 
                 <p class="space-y-2">
@@ -123,7 +123,7 @@ if ($isAuth) {
                 </p>
 
                 <p class="space-y-2">
-                    <strong class="block text-center text-sm sm:text-base font-semibold">6. É seguro jogar na Raspa Green?</strong>
+                    <strong class="block text-center text-sm sm:text-base font-semibold">6. É seguro jogar na Mega Raspadinha?</strong>
                     <span class="block opacity-70 hover:opacity-100 transition">Sim, a segurança é nossa prioridade. Utilizamos criptografia de ponta para proteger seus dados pessoais e transações. Além disso, incentivamos o jogo responsável.</span>
                 </p>
 

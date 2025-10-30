@@ -17,7 +17,7 @@ if ($isAuth) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Política de Privacidade - Raspa Green</title>
+    <title>Política de Privacidade - Mega RaspadinhaS</title>
 
     <style>
         /* Estilos globais e de layout */
@@ -94,10 +94,10 @@ if ($isAuth) {
 <main class="main-container">
     <div class="content-wrapper">
         <div class="mx-auto max-w-3xl px-4 sm:px-6 md:px-8 py-6 sm:py-8 md:py-10">
-            <h2 class="text-center text-lg sm:text-xl md:text-2xl font-extrabold tracking-tight uppercase"> POLÍTICA DE PRIVACIDADE – Raspa Green</h2>
+            <h2 class="text-center text-lg sm:text-xl md:text-2xl font-extrabold tracking-tight uppercase"> POLÍTICA DE PRIVACIDADE – Mega Raspadinha</h2>
             <div class="mt-6 sm:mt-8 space-y-6 leading-relaxed text-sm sm:text-base">
 
-                <p>Nós da **Raspa Green** nos preocupamos com a sua privacidade e segurança. Esta política explica como coletamos, usamos, armazenamos e protegemos seus dados pessoais.</p>
+                <p>Nós da **Mega Raspadinha** nos preocupamos com a sua privacidade e segurança. Esta política explica como coletamos, usamos, armazenamos e protegemos seus dados pessoais.</p>
 
                 <p class="space-y-2">
                     <strong class="block text-center text-sm sm:text-base font-semibold">1. Dados Coletados</strong>
@@ -134,7 +134,7 @@ if ($isAuth) {
                     <span class="block opacity-70 hover:opacity-100 transition">Podemos atualizar esta política de tempos em tempos. Recomendamos que você a revise periodicamente. A data da última atualização estará sempre visível no final desta página.</span>
                 </p>
 
-                <p class="text-center font-semibold">Raspa Green – Diversão com Responsabilidade.</p>
+                <p class="text-center font-semibold">Mega Raspadinha – Diversão com Responsabilidade.</p>
 
                 <p class="text-center font-semibold text-xs opacity-70">Última atualização: 27 de agosto de 2025</p>
             </div>

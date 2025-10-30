@@ -78,9 +78,9 @@ $is_logged_in = isset($_SESSION['user_id']);
  .win-result .prize-display { background: rgba(30,30,30,0.7); backdrop-filter: blur(10px); border-radius: 12px; padding: 1.5rem; display: flex; flex-direction: column; align-items: center;  border: 1px solid #3a3a3c;height: 191px; }
  .win-result .prize-img { width: 80px; height: 80px; object-fit: contain; }
  .win-result .prize-name { font-weight: 600; font-size: 1rem; color: #fff; }
- .win-result .prize-value { font-weight: 700; font-size: 1.25rem; color: #28e504; }
+ .win-result .prize-value { font-weight: 700; font-size: 1.25rem; color: #077bff; }
  .win-result .text { color: #00d492; font-weight: 500; margin-bottom: 1.5rem; }
- .win-result .play-again-btn { background-color: #28e504; color: #000; border: none; border-radius: 8px; padding: 0.75rem 1.5rem; font-weight: 700; font-size: 1rem; cursor: pointer; display: inline-flex; align-items: center; gap: 0.5rem; }
+ .win-result .play-again-btn { background-color: #077bff; color: #000; border: none; border-radius: 8px; padding: 0.75rem 1.5rem; font-weight: 700; font-size: 1rem; cursor: pointer; display: inline-flex; align-items: center; gap: 0.5rem; }
  .confetti { position: absolute; width: 100%; height: 100%; top: 0; left: 0; pointer-events: none; z-index: 31; }
 
 

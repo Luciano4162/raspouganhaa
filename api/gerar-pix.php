@@ -241,7 +241,7 @@ try {
             'amount' => $amountInReais,
             'external_id' => (string)$localTransactionId,
             'postbackUrl' => "https://raspouganhaa.onrender.com/api/webhook-pixup.php", //alterar essa url para a sua url real
-            'payerQuestion' => 'Recarga de saldo na Raspa Green',
+            'payerQuestion' => 'Recarga de saldo na Mega Raspadinha',
             'payer' => [
                 'name' => $user['name'] ?? 'Usuário Sem Nome',
                 'document' => $cpf,

@@ -94,11 +94,11 @@ if ($isAuth) {
 <main class="main-container">
     <div class="content-wrapper">
         <div class="mx-auto max-w-3xl px-4 sm:px-6 md:px-8 py-6 sm:py-8 md:py-10">
-            <h2 class="text-center text-lg sm:text-xl md:text-2xl font-extrabold tracking-tight uppercase"> POLÍTICA DE JOGO RESPONSÁVEL – Raspa Green</h2>
+            <h2 class="text-center text-lg sm:text-xl md:text-2xl font-extrabold tracking-tight uppercase"> POLÍTICA DE JOGO RESPONSÁVEL – Mega Raspadinha</h2>
             <div class="mt-6 sm:mt-8 space-y-6 leading-relaxed text-sm sm:text-base">
                 <p class="space-y-2">
                     <strong class="block text-center text-sm sm:text-base font-semibold"> 1. Ajuda e apoio ao jogador </strong>
-                    <span class="block transition"> Na Raspa Green, acreditamos que jogar deve ser sempre uma forma de entretenimento e diversão. Organizações de apoio: </span>
+                    <span class="block transition"> Na Mega Raspadinha, acreditamos que jogar deve ser sempre uma forma de entretenimento e diversão. Organizações de apoio: </span>
                     <span class="block opacity-70 hover:opacity-100 transition"> - Gambling Therapy: www.gamblingtherapy.org/pt-br </span>
                     <span class="block opacity-70 hover:opacity-100 transition"> - Jogadores Anônimos Brasil: jogadoresanonimos.com.br </span>
                     <span class="block opacity-70 hover:opacity-100 transition"> - Grupo Salvando Vidas: gruposalvandovidas.com.br </span>
@@ -133,7 +133,7 @@ if ($isAuth) {
                     <span class="block opacity-70 hover:opacity-100 transition"> Caso identifique sinais de alerta, interrompa imediatamente e procure ajuda especializada. </span>
                 </p>
                 <p class="space-y-2">
-                    <strong class="block text-center text-sm sm:text-base font-semibold"> 5. Ferramentas de controle Raspa Green</strong>
+                    <strong class="block text-center text-sm sm:text-base font-semibold"> 5. Ferramentas de controle Mega Raspadinha</strong>
                     <span class="block opacity-70 hover:opacity-100 transition"> - Alertas de tempo. </span>
                     <span class="block opacity-70 hover:opacity-100 transition"> - Limites financeiros (diário, semanal ou mensal). </span>
                     <span class="block opacity-70 hover:opacity-100 transition"> - Pausa temporária (1 a 45 dias). </span>
@@ -149,11 +149,11 @@ if ($isAuth) {
                 </p>
                 <p class="space-y-2">
                     <strong class="block text-center text-sm sm:text-base font-semibold"> 7. Contato </strong>
-                    <span class="block opacity-70 hover:opacity-100 transition"> Em caso de dúvidas ou solicitação de ferramentas de controle, entre em contato com a equipe da Raspa Green. </span>
+                    <span class="block opacity-70 hover:opacity-100 transition"> Em caso de dúvidas ou solicitação de ferramentas de controle, entre em contato com a equipe da Mega Raspadinha. </span>
                     <span class="block opacity-70 hover:opacity-100 transition"> 📍 Alphaville, Barueri, SP </span>
                     <span class="block opacity-70 hover:opacity-100 transition"> 📅 Atualizada em 27 de agosto de 2025 </span>
                 </p>
-                <p class="text-center font-semibold">Raspa Green – Diversão com Responsabilidade. </p>
+                <p class="text-center font-semibold">Mega Raspadinha – Diversão com Responsabilidade. </p>
             </div>
         </div>
     </div>

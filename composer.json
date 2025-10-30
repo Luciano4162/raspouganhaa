@@ -1,6 +1,6 @@
 {
   "name": "raspagreen/app",
-  "description": "Raspa Green site - PHP + Heroku Postgres",
+  "description": "Mega Raspadinha site - PHP + Heroku Postgres",
   "type": "project",
   "require": {
     "php": "^8.1",

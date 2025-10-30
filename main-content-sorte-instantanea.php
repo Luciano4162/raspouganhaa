@@ -30,7 +30,7 @@ $is_logged_in = isset($_SESSION['user_id']);
  .winner-name { color: rgba(251,191,36,.75); font-weight: 500; }
  .prize-name { color: #8E8E93; }
  .prize-value { font-weight: 600; font-size: 0.8rem; }
- .prize-value-currency { color: #00E880; }
+ .prize-value-currency { color: #077bff; }
  /* --- GRID PARA O CONTEÚDO --- */
  .game-grid { display: grid; grid-template-columns: 0.9fr 1.52fr; gap: 2rem; align-items: start; }
  /* Coluna da Esquerda (Jogo) */
@@ -50,12 +50,12 @@ $is_logged_in = isset($_SESSION['user_id']);
  .scratch-card-overlay.hidden { opacity: 0; visibility: hidden; pointer-events: none; }
  .overlay-coin-svg { width: 100px; height: 100px; margin: -0.5rem 0; }
  .overlay-price-text { font-weight: 600; font-size: 13px; }
- .overlay-buy-button { background-color: #28e504; color: #000; border: none; border-radius: 8px; height: 40px; padding: 0 10px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; }
+ .overlay-buy-button { background-color: #077bff; color: #000; border: none; border-radius: 8px; height: 40px; padding: 0 10px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; }
  .overlay-buy-button:disabled { background-color: #555; color: #aaa; cursor: wait; }
  .overlay-buy-button section { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
  .overlay-buy-button .buy-text { font-weight: 600; }
  .overlay-buy-button .price-container { background-color: #0e0b0c; color: #fff; border-radius: 8px; padding: 6px; font-size: 12px; display: flex; align-items: center; gap: 4px; }
- .overlay-buy-button .price-container .currency { color: #00d492; }
+ .overlay-buy-button .price-container .currency { color: #077bff; }
 
  /* ✅ MUDANÇA (CSS): Estilos para os novos alertas de resultado */
  #result-alert {
@@ -72,15 +72,15 @@ $is_logged_in = isset($_SESSION['user_id']);
  /* Estilos para o alerta de DERROTA */
  .lose-result .icon { width: 80px; height: 80px; margin-bottom: 1rem; color: #fff; }
  .lose-result .text { font-size: 1.1rem; font-weight: 500; margin: 0 0 1.5rem; color: #f0f0f0; max-width: 25ch; }
- .lose-result .play-again-btn { background-color: #28e504; color: #000; border: none; border-radius: 8px; padding: 0.75rem 1.5rem; font-weight: 700; font-size: 1rem; cursor: pointer; display: inline-flex; align-items: center; gap: 0.5rem; }
+ .lose-result .play-again-btn { background-color: #077bff; color: #000; border: none; border-radius: 8px; padding: 0.75rem 1.5rem; font-weight: 700; font-size: 1rem; cursor: pointer; display: inline-flex; align-items: center; gap: 0.5rem; }
 
  /* Estilos para o alerta de VITÓRIA */
  .win-result .prize-display { background: rgba(30,30,30,0.7); backdrop-filter: blur(10px); border-radius: 12px; padding: 1.5rem; display: flex; flex-direction: column; align-items: center;  border: 1px solid #3a3a3c;height: 191px; }
  .win-result .prize-img { width: 80px; height: 80px; object-fit: contain; }
  .win-result .prize-name { font-weight: 600; font-size: 1rem; color: #fff; }
- .win-result .prize-value { font-weight: 700; font-size: 1.25rem; color: #28e504; }
- .win-result .text { color: #00d492; font-weight: 500; margin-bottom: 1.5rem; }
- .win-result .play-again-btn { background-color: #28e504; color: #000; border: none; border-radius: 8px; padding: 0.75rem 1.5rem; font-weight: 700; font-size: 1rem; cursor: pointer; display: inline-flex; align-items: center; gap: 0.5rem; }
+ .win-result .prize-value { font-weight: 700; font-size: 1.25rem; color: #077bff; }
+ .win-result .text { color: #077bff; font-weight: 500; margin-bottom: 1.5rem; }
+ .win-result .play-again-btn { background-color: #077bff; color: #000; border: none; border-radius: 8px; padding: 0.75rem 1.5rem; font-weight: 700; font-size: 1rem; cursor: pointer; display: inline-flex; align-items: center; gap: 0.5rem; }
  .confetti { position: absolute; width: 100%; height: 100%; top: 0; left: 0; pointer-events: none; z-index: 31; }
 
 
@@ -88,7 +88,7 @@ $is_logged_in = isset($_SESSION['user_id']);
  .action-buttons-footer { display: flex; gap: 0.5rem; }
  .footer-btn { height: 40px; border: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; cursor: pointer; font-weight: 600; color: #fff; text-decoration: none; }
  .footer-btn:disabled { background-color: #555 !important; color: #aaa !important; cursor: wait; }
- .footer-btn-buy { flex: 0.9; background-color: #28e504; color: #000; }
+ .footer-btn-buy { flex: 0.9; background-color: #077bff color: #000; }
  .footer-btn-buy section { display: flex; align-items: center; justify-content: center; gap: 8px; width: 100%; }
  .footer-btn-buy .price-container { background-color: #0e0b0c; color: #fff; border-radius: 6px; padding: 6px; font-size: 12px; display: flex; align-items: center; gap: 4px; }
  .footer-btn-buy .currency { color: #00d492; }
@@ -105,13 +105,13 @@ $is_logged_in = isset($_SESSION['user_id']);
  .right-column-container kbd { background-color: #3A3A3C; padding: 2px 6px; border-radius: 4px; font-family: monospace; font-size: 0.8em; margin: 0 2px; }
  .right-column-container div[data-slot="alert"] { padding: 1.25rem; border:1px solid #27272a; border-radius: 8px; display: grid; grid-template-columns: auto 1fr; gap: 0.75rem; align-items: start; }
  .right-column-container div[data-slot="alert"] svg { color: #fff; width: 20px; height: 20px; }
- .right-column-container div[data-slot="alert-title"] { color: #28e504; font-weight: 600; }
+ .right-column-container div[data-slot="alert-title"] { color: #077bff; font-weight: 600; }
  .right-column-container div[data-slot="alert-description"] { color: #a0a0a0; font-size: 0.9rem; line-height: 1.5; }
  /* --- Overlay de Usuário Deslogado --- */
  .logged-out-overlay { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1rem; color: #fff; text-align: center; }
  .logged-out-overlay .icon { width: 96px; height: 96px; margin-bottom: 0.5rem; }
  .logged-out-overlay .text { font-size: 1.1rem; font-weight: 600; }
- .logged-out-overlay .register-button { background-color: #28e504; color: #111; border: none; border-radius: 8px; padding: 0.75rem 2rem; font-weight: 700; font-size: 1rem; cursor: pointer; text-decoration: none; transition: opacity 0.2s; }
+ .logged-out-overlay .register-button { background-color: #077bff; color: #111; border: none; border-radius: 8px; padding: 0.75rem 2rem; font-weight: 700; font-size: 1rem; cursor: pointer; text-decoration: none; transition: opacity 0.2s; }
  .logged-out-overlay .register-button:hover { opacity: 0.9; }
  /* CSS para a área de mensagens e animação */
 .game-message-area {
@@ -154,9 +154,9 @@ $is_logged_in = isset($_SESSION['user_id']);
 }
 /* Estilos para o botão "Raio" (Fast Scratch) */
 #fast-scratch-button.active {
-    background-color: #28a745; /* Verde quando ativo */
+    background-color: #077bff; /* Verde quando ativo */
     color: #fff;
-    border: 1px solid #28a745;
+    border: 1px solid #077bff;
 }
 
 #fast-scratch-button:not(.active) {
@@ -167,9 +167,9 @@ $is_logged_in = isset($_SESSION['user_id']);
 
 /* Estilos para o botão "Rodada Automática" */
 #auto-play-button.active {
-    background-color: #28a745; /* Verde quando ativo */
+    background-color: #077bff; /* Verde quando ativo */
     color: #fff;
-    border: 1px solid #28a745;
+    border: 1px solid #077bff;
 }
 
 #auto-play-button:not(.active) {

@@ -65,7 +65,7 @@ try {
 .pagination-controls{display:flex;justify-content:space-between;margin-top:10.5rem;color:#a0a0a0;font-size:12px;}
 .pagination-buttons{display:flex; align-items:center; gap:.5rem; flex-wrap: wrap; justify-content:center; flex-direction:row; padding: 0 4px;}
 .pagination-buttons a,.pagination-buttons span{padding:.5rem 1rem;border:1px solid #27272a;border-radius:8px;font-weight:500;text-decoration:none;color:#a0a0a0;background-color:#1F1F1F}
-.pagination-buttons a.current-page{background:var(--primary-color, #28e504);color:#000;border-color:var(--primary-color, #28e504)}
+.pagination-buttons a.current-page{background:var(--primary-color, #077bff);color:#000;border-color:var(--primary-color, #28e504)}
 .pagination-buttons a.disabled{pointer-events:none;opacity:.5}
 .actions-cell button { background: none; border: none; color: #a0a0a0; cursor: pointer; padding: 0.5rem; }
 

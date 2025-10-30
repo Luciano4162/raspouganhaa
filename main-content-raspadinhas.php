@@ -61,7 +61,7 @@
   }
   .prize-name { color: #8E8E93; }
   .prize-value { font-weight: 600; font-size: 0.8rem; }
-  .prize-value-currency { color: #00E880; }
+  .prize-value-currency { color: #077bff; }
 
   /* --- BARRA DE PESQUISA --- */
   .search-container {

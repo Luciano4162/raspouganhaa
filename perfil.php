@@ -12,7 +12,7 @@ if (!isset($_SESSION['user_id'])) {
 }
 
 // Define o título que aparecerá na aba do navegador
-$pageTitle = 'Meu Perfil - Raspa Green';
+$pageTitle = 'Meu Perfil - Mega Raspadinha';
 
 // Importa os componentes da página na ordem correta
 require __DIR__ . '/headerlogado.php';

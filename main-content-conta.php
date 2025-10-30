@@ -73,9 +73,9 @@ function format_phone($phone) {
     .stat-card { background-color: #1F1F1F; border: 1px solid #27272a; border-radius: 10px; padding: 1.25rem; display: flex; justify-content: space-between; align-items: center; }
     .stat-card .info .title { color: #a0a0a0; font-size: 0.9rem; margin-bottom: 0.25rem; }
     .stat-card .info .value { color: #f0f0f0; font-size: 1.5rem; font-weight: 500; }
-    .stat-card .info .value .currency { color: #28e504; margin-right: 0.25rem; }
+    .stat-card .info .value .currency { color: #077bff; margin-right: 0.25rem; }
     .stat-card .icon-wrapper { background-color: #2a2a2e; border-radius: 20%; width: 48px; height: 48px; display: flex; align-items: center; justify-content: center; }
-    .stat-card .icon-wrapper svg { color: #28e504; width: 24px; height: 24px; }
+    .stat-card .icon-wrapper svg { color: #077bff; width: 24px; height: 24px; }
     .info-list { background-color: #1F1F1F; border: 1px solid #27272a; border-radius: 10px; overflow: hidden; }
     .info-item { display: flex; flex-direction: column; align-items: stretch; padding: 1rem 1.25rem; border-bottom: 1px solid #27272a; gap: 0.5rem; }
     .info-item:last-child { border-bottom: none; }
@@ -84,9 +84,9 @@ function format_phone($phone) {
     .value-wrapper { flex-grow: 1; display: flex; align-items: center; gap: 0.5rem; color: #a0a0a0; }
     .value-wrapper svg { width: 16px; height: 16px; }
     .info-item .value-input { background-color: #27272a; border: 1px solid #3f3f46; color: #f0f0f0; border-radius: 8px; padding: 0.6rem 0.75rem; width: 100%; font-size: 1rem; height: 42px; }
-    .info-item .value-input:focus { outline: none; border-color: #28e504; }
+    .info-item .value-input:focus { outline: none; border-color: #077bff; }
     .edit-controls { display: flex; gap: 0.5rem; }
-    .edit-button, .save-button, .cancel-button { background-color: #28e504; color: #111; border: none; border-radius: 8px; padding: 0.5rem 1rem; font-weight: 600; cursor: pointer; transition: opacity 0.2s; display: inline-flex; align-items: center; gap: 0.35rem; white-space: nowrap; height: 42px; }
+    .edit-button, .save-button, .cancel-button { background-color: #077bff; color: #111; border: none; border-radius: 8px; padding: 0.5rem 1rem; font-weight: 600; cursor: pointer; transition: opacity 0.2s; display: inline-flex; align-items: center; gap: 0.35rem; white-space: nowrap; height: 42px; }
     .edit-button:hover, .save-button:hover { opacity: 0.9; }
     .cancel-button { background-color: #4b5563; color: #f0f0f0; }
     .cancel-button:hover { background-color: #6b7280; }
@@ -245,7 +245,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 const result = await response.json();
 
-                feedbackDiv.style.color = result.ok ? '#28e504' : '#ff4d6a';
+                feedbackDiv.style.color = result.ok ? '#077bff' : '#ff4d6a';
                 feedbackDiv.textContent = result.message || result.error;
 
                 setTimeout(() => { feedbackDiv.textContent = ''; }, 3000);

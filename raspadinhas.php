@@ -5,7 +5,7 @@
 session_start();
 
 // Define o título da página
-$pageTitle = 'Raspadinhas - Raspa Green';
+$pageTitle = 'Raspadinhas - Mega Raspadinha';
 
 /**
  * LÓGICA DE AUTENTICAÇÃO (MAIS CONSISTENTE)

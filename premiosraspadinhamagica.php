@@ -128,7 +128,7 @@ $prizes = [
         opacity: 0.5;
     }
     .prizes-layout-container .swiper-pagination-bullet-active {
-        background: #28e504;
+        background: #077bff;
         opacity: 1;
     }
 

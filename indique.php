@@ -11,7 +11,7 @@ $is_logged_in = isset($_SESSION['user_id']);
 // Se o usuário ESTIVER LOGADO, mostramos a página de afiliados normal
 if ($is_logged_in) {
 
-    $pageTitle = 'Indique e Ganhe - Raspa Green';
+    $pageTitle = 'Indique e Ganhe - Mega Raspadinha';
     require __DIR__ . '/headerlogado.php';
     require __DIR__ . '/main-content-indique.php';
     require __DIR__ . '/footer.php';
@@ -20,7 +20,7 @@ if ($is_logged_in) {
 } else {
 
     // Se o usuário NÃO ESTIVER LOGADO, mostramos a nova tela de "Acesse sua conta"
-    $pageTitle = 'Acesse sua Conta - Raspa Gree';
+    $pageTitle = 'Acesse sua Conta - Mega Raspadinha';
     require __DIR__ . '/header.php'; // Importante: usamos o header normal que tem o modal de login
     ?>
 

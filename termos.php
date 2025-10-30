@@ -94,7 +94,7 @@ if ($isAuth) {
 <main class="main-container">
     <div class="content-wrapper">
         <div class="mx-auto max-w-3xl px-4 sm:px-6 md:px-8 py-6 sm:py-8 md:py-10">
-            <h2 class="text-center text-lg sm:text-xl md:text-2xl font-extrabold tracking-tight uppercase"> TERMOS DE USO – Raspa Green</h2>
+            <h2 class="text-center text-lg sm:text-xl md:text-2xl font-extrabold tracking-tight uppercase"> TERMOS DE USO – Mega Raspadinha</h2>
             <div class="mt-6 sm:mt-8 space-y-6 leading-relaxed text-sm sm:text-base">
                 <p class="space-y-2">
                     <strong class="block text-center text-sm sm:text-base font-semibold"> 1. Idade mínima e acesso </strong>
@@ -104,7 +104,7 @@ if ($isAuth) {
                 <p class="space-y-2">
                     <strong class="block text-center text-sm sm:text-base font-semibold"> 2. Risco de perdas </strong>
                     <span class="block opacity-70 hover:opacity-100 transition"> 2.1. A participação em jogos e raspadinhas online envolve risco financeiro real, podendo gerar ganhos ou perdas. </span>
-                    <span class="block opacity-70 hover:opacity-100 transition"> 2.2. A Raspa Green não garante lucros e não se responsabiliza por eventuais prejuízos decorrentes das escolhas do usuário. </span>
+                    <span class="block opacity-70 hover:opacity-100 transition"> 2.2. A Mega Raspadinha não garante lucros e não se responsabiliza por eventuais prejuízos decorrentes das escolhas do usuário. </span>
                 </p>
                 <p class="space-y-2">
                     <strong class="block text-center text-sm sm:text-base font-semibold"> 3. Jogo consciente </strong>
@@ -128,9 +128,9 @@ if ($isAuth) {
                 <p class="space-y-2">
                     <strong class="block text-center text-sm sm:text-base font-semibold"> 6. Responsabilidade do usuário </strong>
                     <span class="block opacity-70 hover:opacity-100 transition"> 6.1. O usuário declara que compreende integralmente este Termo de Responsabilidade e assume total responsabilidade sobre suas escolhas de jogo. </span>
-                    <span class="block opacity-70 hover:opacity-100 transition"> 6.2. A Raspa Green poderá bloquear ou encerrar contas em caso de descumprimento destes termos, fraude ou comportamento suspeito. </span>
+                    <span class="block opacity-70 hover:opacity-100 transition"> 6.2. A Mega Raspadinha poderá bloquear ou encerrar contas em caso de descumprimento destes termos, fraude ou comportamento suspeito. </span>
                 </p>
-                <p class="text-center font-semibold">Raspa Green – Diversão com Responsabilidade. </p>
+                <p class="text-center font-semibold">Mega Raspadinha – Diversão com Responsabilidade. </p>
             </div>
         </div>
     </div>

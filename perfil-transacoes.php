@@ -9,7 +9,7 @@ if (!isset($_SESSION['user_id'])) {
     exit();
 }
 
-$pageTitle = 'Minhas Transações - Raspa Green';
+$pageTitle = 'Minhas Transações - Mega Raspadinha';
 
 // Inclui o cabeçalho de usuário logado
 require __DIR__ . '/headerlogado.php';
