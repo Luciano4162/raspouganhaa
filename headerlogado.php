@@ -15,7 +15,7 @@
 
 <style>
 :root{
-  --primary:#28e504; --background:#111111; --foreground:#e0e0e0;
+  --primary:#007bff; --background:#111111; --foreground:#e0e0e0;
   --border:#27272a; --font-family:'Poppins',sans-serif;
 }
 *{padding:0;box-sizing:border-box;}
@@ -274,7 +274,8 @@ ul{list-style:none;}
   <div class="header-container">
     <div class="header-left">
       <a href="/inicio.php" class="logo-link">
-        <img src="https://ik.imagekit.io/3kbnnws8u/raspa-green-logo.png?updatedAt=1757348357863" alt="Logo" class="logo-img">
+        <img src="git commit - “primeiro deploy”
+" alt="Logo" class="logo-img">
       </a>
       <nav class="main-nav">
         <ul>
