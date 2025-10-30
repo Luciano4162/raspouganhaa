@@ -276,8 +276,8 @@ ul{list-style:none;}
       <a href="/inicio.php" class="logo-link">
         <img src="https://ik.imagekit.io/tob6osenev/1761831068635~2.jpg?updatedAt=1761831316938
 " alt="Logo" class="logo-img"
- width="300"
-     height="300">
+ width="500"
+     height="500">
       </a>
       <nav class="main-nav">
         <ul>
