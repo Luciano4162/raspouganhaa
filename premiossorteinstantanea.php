@@ -73,7 +73,7 @@ $prizes = [
         left: 0;
         right: 0;
         height: 50%;
-        background: linear-gradient(to top, rgba(40, 229, 4, 0.20) 0%, transparent 80%);
+        background: linear-gradient(to top, hsla(212, 97%, 46%, 0.20) 0%, transparent 80%);
         pointer-events: none;
         z-index: 1;
     }
@@ -124,7 +124,7 @@ $prizes = [
         opacity: 0.5;
     }
     .prizes-layout-container .swiper-pagination-bullet-active {
-        background: #28e504;
+        background: #045ee5ff;
         opacity: 1;
     }
 

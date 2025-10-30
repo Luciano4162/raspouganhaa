@@ -211,7 +211,7 @@ $base_url = "{$protocol}://{$host}/r/";
 <style>
 /* SEU CSS EXISTENTE */
 :root {
-    --primary-green: #28e504;
+    --primary-green: #007bff;
     --background-dark: #111111;
     --card-bg: #1A1A1A;
     --border-color: #27272a;

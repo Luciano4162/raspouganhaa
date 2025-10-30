@@ -50,12 +50,12 @@ $is_logged_in = isset($_SESSION['user_id']);
  .scratch-card-overlay.hidden { opacity: 0; visibility: hidden; pointer-events: none; }
  .overlay-coin-svg { width: 100px; height: 100px; margin: -0.5rem 0; }
  .overlay-price-text { font-weight: 600; font-size: 13px; }
- .overlay-buy-button { background-color: #28e504; color: #000; border: none; border-radius: 8px; height: 40px; padding: 0 10px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; }
+ .overlay-buy-button { background-color: #007bff; color: #000; border: none; border-radius: 8px; height: 40px; padding: 0 10px; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; }
  .overlay-buy-button:disabled { background-color: #555; color: #aaa; cursor: wait; }
  .overlay-buy-button section { display: flex; align-items: center; justify-content: space-between; gap: 8px; }
  .overlay-buy-button .buy-text { font-weight: 600; }
  .overlay-buy-button .price-container { background-color: #0e0b0c; color: #fff; border-radius: 8px; padding: 6px; font-size: 12px; display: flex; align-items: center; gap: 4px; }
- .overlay-buy-button .price-container .currency { color: #00d492; }
+ .overlay-buy-button .price-container .currency { color: #007bff; }
 
  /* ✅ MUDANÇA (CSS): Estilos para os novos alertas de resultado */
  #result-alert {
@@ -88,10 +88,10 @@ $is_logged_in = isset($_SESSION['user_id']);
  .action-buttons-footer { display: flex; gap: 0.5rem; }
  .footer-btn { height: 40px; border: none; border-radius: 8px; display: flex; align-items: center; justify-content: center; cursor: pointer; font-weight: 600; color: #fff; text-decoration: none; }
  .footer-btn:disabled { background-color: #555 !important; color: #aaa !important; cursor: wait; }
- .footer-btn-buy { flex: 0.9; background-color: #28e504; color: #000; }
+ .footer-btn-buy { flex: 0.9; background-color: #007bff; color: #000; }
  .footer-btn-buy section { display: flex; align-items: center; justify-content: center; gap: 8px; width: 100%; }
  .footer-btn-buy .price-container { background-color: #0e0b0c; color: #fff; border-radius: 6px; padding: 6px; font-size: 12px; display: flex; align-items: center; gap: 4px; }
- .footer-btn-buy .currency { color: #00d492; }
+ .footer-btn-buy .currency { color: #007bff; }
  .footer-btn-auto { flex: 1; background-color: #2A2A2E; gap: 0.5rem; }
  .footer-btn-icon { flex: 0.3; background-color: #2A2A2E; }
  .footer-btn svg { width: 20px; height: 20px; }
@@ -105,7 +105,7 @@ $is_logged_in = isset($_SESSION['user_id']);
  .right-column-container kbd { background-color: #3A3A3C; padding: 2px 6px; border-radius: 4px; font-family: monospace; font-size: 0.8em; margin: 0 2px; }
  .right-column-container div[data-slot="alert"] { padding: 1.25rem; border:1px solid #27272a; border-radius: 8px; display: grid; grid-template-columns: auto 1fr; gap: 0.75rem; align-items: start; }
  .right-column-container div[data-slot="alert"] svg { color: #fff; width: 20px; height: 20px; }
- .right-column-container div[data-slot="alert-title"] { color: #28e504; font-weight: 600; }
+ .right-column-container div[data-slot="alert-title"] { color: #007bff; font-weight: 600; }
  .right-column-container div[data-slot="alert-description"] { color: #a0a0a0; font-size: 0.9rem; line-height: 1.5; }
  /* --- Overlay de Usuário Deslogado --- */
  .logged-out-overlay { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1rem; color: #fff; text-align: center; }
@@ -154,9 +154,9 @@ $is_logged_in = isset($_SESSION['user_id']);
 }
 /* Estilos para o botão "Raio" (Fast Scratch) */
 #fast-scratch-button.active {
-    background-color: #28a745; /* Verde quando ativo */
+    background-color: #007bff; /* Verde quando ativo */
     color: #fff;
-    border: 1px solid #28a745;
+    border: 1px solid #007bff;
 }
 
 #fast-scratch-button:not(.active) {
@@ -167,9 +167,9 @@ $is_logged_in = isset($_SESSION['user_id']);
 
 /* Estilos para o botão "Rodada Automática" */
 #auto-play-button.active {
-    background-color: #28a745; /* Verde quando ativo */
+    background-color: #007bff; /* Verde quando ativo */
     color: #fff;
-    border: 1px solid #28a745;
+    border: 1px solid #007bff;
 }
 
 #auto-play-button:not(.active) {

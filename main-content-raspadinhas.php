@@ -93,7 +93,7 @@
   }
   .search-input:focus {
     outline: none;
-    border-color: var(--primary, #28e504);
+    border-color: var(--primary, #007bff);
   }
   .search-input::placeholder {
     color: #9ca3af;
