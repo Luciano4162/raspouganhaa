@@ -15,6 +15,13 @@ $is_logged_in = isset($_SESSION['user_id']);
  main { max-width: 1400px; margin: 1rem auto; background: #1A1A1A; border-radius: 10px; padding: 0.55rem; }
  /* --- VENCEDORES AO VIVO --- */
  .live-winners-container { display: flex; align-items: center; margin-bottom: 2rem; }
+ .live-winners-container {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
  .live-winners-container .live-icon-svg { flex-shrink: 0; height: 60px; width: auto; }
  .winners-swiper { overflow: hidden; margin-left: .5rem; }
  .winners-swiper .swiper-slide { display: flex !important; align-items: center; gap: .5rem; padding: .5rem 1rem; border: 1px solid #3a3a3c; border-radius: .5rem; width: auto !important; }

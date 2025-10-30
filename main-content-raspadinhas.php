@@ -19,6 +19,13 @@
     align-items: center;
     margin-bottom: 2rem; /* Espaço abaixo do carrossel */
   }
+  .live-winners-container {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
   .live-winners-container .live-icon-svg {
     flex-shrink: 0;
     height: 60px;

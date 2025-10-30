@@ -9,6 +9,13 @@
 .hero-swiper img{width:100%;height:100%;display:block;object-fit:cover;}
 /* Winners */
 .live-winners-container{display:flex;align-items:center;margin-top:1.5rem;}
+.live-winners-container {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  height: 0 !important;
+  overflow: hidden !important;
+}
 .live-winners-container svg.live-icon{flex-shrink:0;height:50px;width:auto;}
 .winners-swiper{overflow:hidden;margin-left:.5rem;}
 .winners-swiper .swiper-slide{
