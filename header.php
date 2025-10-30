@@ -361,8 +361,11 @@ body.menu-is-open .mobile-menu-drawer{transform:translateX(0);}
   <div class="header-container">
     <div class="header-left">
       <a href="/" class="logo-link">
-         <<span class="logo-text">MEGA RASPADINHA</span>
-      </a>
+         <span class="logo-text">MEGA RASPADINHA</span>
+ </a>
+      
+    </a>
+    
       <nav class="main-nav">
         <ul>
           <li>
