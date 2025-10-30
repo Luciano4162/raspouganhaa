@@ -57,7 +57,7 @@
         <section class="hero-section">
             <div class="swiper hero-swiper">
                 <div class="swiper-wrapper">
-                    <div class="swiper-slide"><a href="#"><img src="https://ik.imagekit.io/tob6osenev/IMG-20251030-WA0010.jpg?updatedAt=1761840410342" alt="Banner 3"></a></div>
+                    <div class="swiper-slide"><a href="#"><img src="https://ik.imagekit.io/tob6osenev/01K0N46GHFHE1FWYSYQZE1RNXG-1.webp?updatedAt=1761848155989" alt="Banner 3"></a></div>
                     <div class="swiper-slide"><a href="#"><img src="https://ik.imagekit.io/3kbnnws8u/BANNER-MULTIPLICADOR.png?updatedAt=1757353289429" alt="Banner 1"></a></div>
                     <div class="swiper-slide"><a href="#"><img src="https://ik.imagekit.io/kyjz2djk3p/BANNER---RASPAGREEN2.png" alt="Banner 2"></a></div>
 
