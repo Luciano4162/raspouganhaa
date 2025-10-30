@@ -274,7 +274,7 @@ ul{list-style:none;}
   <div class="header-container">
     <div class="header-left">
       <a href="/inicio.php" class="logo-link">
-          <span class="logo-text">MEGA RASPADINHAa</span>
+          <span class="logo-text">MEGA RASPADINHA</span>
 </a>
      
       </a>

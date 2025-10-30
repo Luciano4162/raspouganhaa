@@ -50,7 +50,7 @@ if ($is_logged_in) {
             align-items: center;
             justify-content: center;
             gap: 0.5rem;
-            background-color: #28e504;
+            background-color: #077bff;
             color: #111111;
             border: none;
             border-radius: 8px;
@@ -65,7 +65,7 @@ if ($is_logged_in) {
         }
         .auth-required-container .back-link {
             margin-top: 1rem;
-            color: #28e504;
+            color: #077bff;
             font-size: 0.9rem;
             text-decoration: none;
         }

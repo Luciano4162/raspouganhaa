@@ -124,8 +124,8 @@
 #dep-amount{width:100%;border:1px solid var(--border);background:transparent;border-radius:8px;padding:10px 12px 10px calc(var(--pfx) + 18px);font-size:1rem;color:#fff;}
 .dep-min{font-size:.78rem;color:#ff6b6b;margin-top:-4px;}
 .dep-quick{display:grid;grid-template-columns: repeat(2, 1fr); gap:8px;margin-top:4px;}
-.dep-qbtn{background:rgba(40,229,4,.12);color:var(--primary);font-weight:600;border-radius:8px;padding:.48rem .9rem;font-size:.9rem;border:0;cursor:pointer;transition:background .15s;position:relative;}
-.dep-qbtn:hover{background:rgba(40,229,4,.2);}
+.dep-qbtn{background:rgba(4, 120, 229, 0.12);color:var(--primary);font-weight:600;border-radius:8px;padding:.48rem .9rem;font-size:.9rem;border:0;cursor:pointer;transition:background .15s;position:relative;}
+.dep-qbtn:hover{background:rgba(4, 120, 229, 0.2);}
 .dep-qbtn--hot{box-shadow:0 0 0 2px #facc15 inset;}
 .dep-hot-badge{position:absolute;top:-7px;left:50%;transform:translateX(-50%);background:#facc15;color:#000;font-size:.62rem;line-height:1;padding:2px 6px;border-radius:4px;display:flex;gap:4px;align-items:center;text-transform:uppercase; font-weight: 700;}
 #deposit-step-pix { padding: 2rem; text-align: center; }
