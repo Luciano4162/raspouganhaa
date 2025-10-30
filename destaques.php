@@ -108,7 +108,7 @@ $scratch_cards = [
 
     ['img'=>'https://ik.imagekit.io/3kbnnws8u/beleza%20premiada.png?updatedAt=1757350104732','alt'=>'Beleza Premiada','title'=>'Beleza Premiada','prize_info'=>'PRÊMIOS DE ATÉ R$ 15.000,00','price'=>'5,00', 'url_view' => 'raspa-relampago'],
 
-    ['img'=>'https://ik.imagekit.io/3kbnnws8u/Luxo%20Rasp%C3%A1vel.png?updatedAt=1757350104504','alt'=>'Luxo Raspável','title'=>'Luxo Raspável','prize_info'=>'PRÊMIOS DE ATÉ R$ 30.000,00','price'=>'50,00', 'url_view' => 'raspadinha-magica'],
+    ['img'=>'https://ik.imagekit.io/t3rflve8lv/1761853265159.jpg?updatedAt=1761853610026','alt'=>'Luxo Raspável','title'=>'Luxo Raspável','prize_info'=>'PRÊMIOS DE ATÉ R$ 30.000,00','price'=>'50,00', 'url_view' => 'raspadinha-magica'],
 
     ['img'=>'https://ik.imagekit.io/3kbnnws8u/Casa%20dos%20Sonhos.png?updatedAt=1757350104532','alt'=>'Casa dos Sonhos','title'=>'Casa dos sonhos','prize_info'=>'PRÊMIOS DE ATÉ R$ 60.000,00','price'=>'100,00', 'url_view' => 'raspe-e-ganhe'],
 ];
