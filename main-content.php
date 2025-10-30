@@ -60,7 +60,7 @@
                     <div class="swiper-slide"><a href="#"><img src="https://ik.imagekit.io/tob6osenev/01K0N46GHFHE1FWYSYQZE1RNXG-1.webp?updatedAt=1761848155989
                     " alt="Banner 3"></a></div>
                     <div class="swiper-slide"><a href="#"><img src="https://ik.imagekit.io/nkxzemvua/1761861206681.jpg?updatedAt=1761861243924" alt="Banner 1"></a></div>
-                    <div class="swiper-slide"><a href="#"><img src="https://ik.imagekit.io/nkxzemvua/1761861206681.jpg?updatedAt=1761861243924" alt="Banner 2"></a></div>
+                    <div class="swiper-slide"><a href="#"><img src="https://ik.imagekit.io/nkxzemvua/1761862321102.jpg?updatedAt=1761862384863" alt="Banner 2"></a></div>
 
                 </div>
                 <div class="swiper-pagination"></div>
