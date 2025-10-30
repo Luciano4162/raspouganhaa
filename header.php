@@ -24,7 +24,7 @@ $user   = $_SESSION['user'] ?? [];              // ['nome','avatar','saldo']
     VARS / RESET
 -------------------------------------------------- */
 :root{
-  --primary:#28e504; --background:#111111; --foreground:#e0e0e0;
+  --primary:#007bff; --background:#111111; --foreground:#e0e0e0;
   --border:#27272a; --font-family:'Poppins',sans-serif;
 }
 *{padding:0;box-sizing:border-box;}
@@ -71,8 +71,8 @@ ul{list-style:none;}
 .modal{
   position:fixed;z-index:50;background:var(--background);
   background-image:
-    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(40,229,4,.15), transparent),
-    radial-gradient(ellipse 80% 50% at 50% 110%, rgba(40,229,4,.1), transparent);
+    radial-gradient(ellipse 80% 50% at 50% -10%, rgba(4, 109, 229, 0.15), transparent),
+    radial-gradient(ellipse 80% 50% at 50% 110%, rgba(4, 109, 229, 0.1), transparent);
   border:1px solid var(--border);border-radius:.5rem;
   box-shadow:0 10px 15px -3px rgba(0,0,0,.58),0 4px 6px -2px rgba(0,0,0,.05);
   width:90%;max-width:510px;padding:2.75rem 2.5rem;
@@ -245,7 +245,7 @@ body.menu-is-open .mobile-menu-drawer{transform:translateX(0);}
     border:4px solid #111;
     width:58px;height:58px;border-radius:50%;
     display:flex;align-items:center;justify-content:center;
-    box-shadow:0 6px 20px rgba(40,229,4,.35);
+    box-shadow:0 6px 20px rgba(4, 139, 229, 0.35);
     transition:transform .12s;
   }
   .bottom-nav__fab svg{width:26px;height:26px;fill:currentColor;}
