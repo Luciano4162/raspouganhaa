@@ -67,7 +67,7 @@ $dominio = $_SERVER['HTTP_HOST'] ?? 'raspadinhas.green';
 <footer class="footer">
     <div class="footer-container">
         <div class="footer-column-logo">
-            <a href="/"><img src="https://ik.imagekit.io/tob6osenev/1761831068635~2.jpg?updatedAt=1761831316938" class="footer-logo" alt="Logo"></a>
+            <a href="/"><img src="https://ik.imagekit.io/tob6osenev/1761831836663~2.jpg?updatedAt=1761831901539" class="footer-logo" alt="Logo"></a>
             <div class="footer-legal-text">© 2025 <?= htmlspecialchars($dominio) ?> Todos os direitos reservados.</div>
             <div class="footer-legal-text secondary">75734835786
                 Raspadinhas e outros jogos de azar são regulamentados e cobertos pela nossa licença de jogos. Jogue com responsabilidade.
