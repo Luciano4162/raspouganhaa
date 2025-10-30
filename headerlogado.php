@@ -274,7 +274,7 @@ ul{list-style:none;}
   <div class="header-container">
     <div class="header-left">
       <a href="/inicio.php" class="logo-link">
-        <img src="git commit - “primeiro deploy”
+        <img src="https://ik.imagekit.io/tob6osenev/1761831068635~2.jpg?updatedAt=1761831316938
 " alt="Logo" class="logo-img">
       </a>
       <nav class="main-nav">
