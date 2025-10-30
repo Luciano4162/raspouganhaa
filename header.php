@@ -9,8 +9,8 @@ $user   = $_SESSION['user'] ?? [];              // ['nome','avatar','saldo']
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title><?= $pageTitle ?? 'Raspa Green'; ?></title>
-<link rel="icon" type="image/x-icon" href="https://ik.imagekit.io/3kbnnws8u/raspa-green-logo.png?updatedAt=1757348357863">
+<title><?= $pageTitle ?? 'Mega Raspa'; ?></title>
+<link rel="icon" type="image/x-icon" href="https://ik.imagekit.io/tob6osenev/1761831836663~2.jpg?updatedAt=1761831901539">
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
