@@ -14,7 +14,7 @@
 
     <div id="deposit-step-form">
         <div class="dep-hero">
-            <img src="https://ik.imagekit.io/kyjz2djk3p/deposito3x.png?updatedAt=1757428651160" alt="Depositar" class="dep-hero-img">
+            <img src="https://ik.imagekit.io/nkxzemvua/1761859241792.jpg?updatedAt=1761859300016" alt="Depositar" class="dep-hero-img">
             <div class="dep-hero-mask"></div>
         </div>
         <div class="dep-header">
