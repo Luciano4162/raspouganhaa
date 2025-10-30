@@ -1,6 +1,6 @@
 <?php
 // index.php - apenas importa os outros arquivos
-$pageTitle = 'Início - Raspa Green';
+$pageTitle = 'Início - Mega Raspa';
 // O header é incluído antes de qualquer conteúdo principal.
 require __DIR__.'/header.php';
 

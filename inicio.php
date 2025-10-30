@@ -5,7 +5,7 @@ if(empty($_SESSION['user_id'])){
     exit;
 }
 
-$pageTitle = 'Raspa green';
+$pageTitle = 'Mega Raspa';
 // O header é incluído antes de qualquer conteúdo principal.
 require __DIR__.'/headerlogado.php';
 

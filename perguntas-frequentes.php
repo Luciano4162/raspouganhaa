@@ -17,7 +17,7 @@ if ($isAuth) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perguntas Frequentes - Raspa Green</title>
+    <title>Perguntas Frequentes - Mega Raspadinha</title>
 
     <style>
         /* Estilos globais e de layout */
