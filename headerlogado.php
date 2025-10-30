@@ -274,10 +274,9 @@ ul{list-style:none;}
   <div class="header-container">
     <div class="header-left">
       <a href="/inicio.php" class="logo-link">
-        <img src="https://ik.imagekit.io/tob6osenev/1761831068635~2.jpg?updatedAt=1761831316938
-" alt="Logo" class="logo-img"
- width="500"
-     height="500">
+          <span class="logo-text">MEGA RASPADINHA</span>
+</a>
+     
       </a>
       <nav class="main-nav">
         <ul>
