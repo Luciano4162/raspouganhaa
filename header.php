@@ -361,7 +361,7 @@ body.menu-is-open .mobile-menu-drawer{transform:translateX(0);}
   <div class="header-container">
     <div class="header-left">
       <a href="/" class="logo-link">
-        <img src="https://ik.imagekit.io/tob6osenev/1761831836663~2.jpg?updatedAt=1761831901539" alt="Logo do Site" class="logo-img">
+        <img src="https://ik.imagekit.io/tob6osenev/1761831068635~2.jpg?updatedAt=1761831316938" alt="Logo do Site" class="logo-img">
       </a>
       <nav class="main-nav">
         <ul>
