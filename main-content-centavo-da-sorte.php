@@ -352,6 +352,8 @@ $is_logged_in = isset($_SESSION['user_id']);
         width: 18px; /* Reduz o tamanho dos ícones */
         height: 18px;
     }
+    .live-winners-container {
+  display: none !important;
 }
 </style>
 
