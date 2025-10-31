@@ -27,7 +27,7 @@
                 <span class="dep-prefix">R$</span>
                 <input id="dep-amount" name="amount" type="tel" inputmode="numeric" autocomplete="off" value="20,00">
             </div>
-            <div class="dep-min" id="dep-min-msg" style="display: none;">O valor mínimo é R$ 20,00</div>
+            <div class="dep-min" id="dep-min-msg" style="display: none;">O valor mínimo é R$ 10,00</div>
             <div class="dep-min" id="dep-max-msg" style="display: none;">O valor máximo é R$ 700,00</div>
             <div class="dep-quick">
                 <button type="button" class="dep-qbtn" data-value="20">R$ 20,00</button>
@@ -190,7 +190,7 @@
 <script>
 (() => {
     // Bloco de constantes e seletores de elementos
-    const MIN_VALUE = 20;
+    const MIN_VALUE = 10;
     const MAX_VALUE = 700;
     const POLLING_INTERVAL_MS = 3000;
     const PIX_EXPIRY_SECONDS = 600;
